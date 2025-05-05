@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 import argparse
 from animate import animate,ALGORITHMS
-# animate("Shell Sort", n=500, sequence="ciura",speed=100)
-animate("Heap Sort", n=500)
 
 def args():
     """
