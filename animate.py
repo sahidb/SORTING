@@ -31,7 +31,7 @@ COLORS = {
 
 ALGORITHMS = {
     "Bogo Sort" : bogo_sort,
-    "Buble Sort" : buble_sort,
+    "Bubble Sort" : buble_sort,
     "Brick Sort" : brick_sort,
     "Comb Sort" : comb_sort,
     "Cocktail Sort" : coctail_sort,
